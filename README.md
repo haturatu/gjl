@@ -9,6 +9,6 @@ go run main.go
 or
 ```bash
 go build -o gjl main.go
-./main.go
+./gjl
 ```
 
